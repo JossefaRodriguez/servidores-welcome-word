@@ -6,7 +6,7 @@ const fs = require('fs')
 // Se crea el servidor y constantes
 http.createServer(function (req, res) {
     const parametros = url.parse(req.url, true).query 
-    
+
     // Se crean las constantes a utilizar
     const nombreArchivo = parametros.archivo
     const contenidoArchivo = parametros.contenido
