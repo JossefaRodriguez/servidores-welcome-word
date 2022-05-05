@@ -1,4 +1,4 @@
-# Desafio servidores-welcome-word
+# Desafio Servidores Welcome Word
 ### Para iniciar el programa  es necesario ejecutar en la terminal node `index.js` esperar el listen del localhost y aperturar en el navegador http:localhost:8080
 
 **El presente desafio se basa en lo siguiente :shipit:**
